@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SAPULIDI</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_home">Beranda</string>
+    <string name="open">Open Drawer</string>
+    <string name="close">Close Drawer</string>
+    <string name="title_activity_activity_addlaporan">Tambah Laporan</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_about">Segala bentuk pungutan liar merupakan tindakan korupsi, mari kita berantas tindakan korupsi bersama - sama, laporkan segala bentuk kecurangan yang berpotensi merugikan negara, dengan melapor berarti anda telah membatu memberantas korupsi di indonesia.</string>
+    <string name="isilaporan">Terjadi pungutan saaat bla bla bla bla bal</string>
+
+    <string-array name="Kategory">
+        <item>KTP</item>
+        <item>Kartu Keluarga</item>
+        <item>Raskin</item>
+        <item>Setifikat</item>
+        <item>Surat Peizinan</item>
+        <item>Surat - menyurat</item>
+        <item>Surat Menyurat Lainya</item>
+    </string-array>
+</resources>

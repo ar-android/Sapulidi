@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menuHome"
+            android:title="Home"
+            android:icon="@drawable/ic_home_white_24dp"/>
+        <item
+            android:id="@+id/profile"
+            android:title="Profile"
+            android:icon="@drawable/ic_person_white_24dp"/>
+        <item
+            android:id="@+id/laporan_saya"
+            android:title="Laporan Saya"
+            android:icon="@drawable/ic_record_voice_over_white_24dp"/>
+        <item
+            android:id="@+id/kritik_saran"
+            android:title="Kritik dan Saran"
+            android:icon="@drawable/ic_hearing_white_24dp"/>
+        <item
+            android:id="@+id/about"
+            android:title="About"
+            android:icon="@drawable/ic_description_white_24dp"/>
+        <item
+            android:id="@+id/logout"
+            android:title="Logout"
+            android:icon="@drawable/ic_power_settings_new_white_24dp"/>
+    </group>
+</menu>
